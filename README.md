@@ -1,6 +1,6 @@
 # Prácticas de Programación Orientada a Objetos en Java
 
-Selección de las prácticas que hice en la materia de Programación Orientada a Objetos, ordenadas por unidad. El código está en Java y cada carpeta de unidad se puede compilar y ejecutar por separado.
+Selección de las prácticas que hice en la materia de Programación Orientada a Objetos en mi segundo semestre de Ingeniería Informatica, ordenadas por unidad. El código está en Java y cada carpeta de unidad se puede compilar y ejecutar por separado.
 
 ## Contenido
 
