@@ -1,0 +1,16 @@
+# Archivos compilados
+out/
+bin/
+build/
+dist/
+*.class
+*.jar
+
+# Configuración de editores e IDEs
+nbproject/private/
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
